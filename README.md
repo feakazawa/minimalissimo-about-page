@@ -3,7 +3,8 @@
 Your task is to replicate the [Minimalissimo/about](https://minimalissimo.com/suggest) site (using `FLEXBOX`, `GRID` and `responsive design`).
 
 ## Netlify link: 
-https://rad-toffee-18fc1b.netlify.app/
+
+Link: https://rad-toffee-18fc1b.netlify.app/
 
 ## What to build
 
